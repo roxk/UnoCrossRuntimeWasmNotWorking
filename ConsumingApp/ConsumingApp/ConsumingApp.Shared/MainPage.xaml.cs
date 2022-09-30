@@ -30,7 +30,6 @@ namespace ConsumingApp
             var control = new MyCustomControl();
             // Expected result: the following line compiles.
             // Actual result: it doesn't compile. 
-            control.WasmOnlyMethod();
 #endif
         }
     }
