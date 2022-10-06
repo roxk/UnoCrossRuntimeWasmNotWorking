@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Platforms", "Platforms", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumingApp.UWP", "ConsumingApp\ConsumingApp.UWP\ConsumingApp.UWP.csproj", "{ADCBE3E1-AD34-4F3E-886F-32F5D8A46252}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumingApp.Wasm", "ConsumingApp\ConsumingApp.Wasm\ConsumingApp.Wasm.csproj", "{8F2311C3-F93C-4786-B23E-117C84D201E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsumingApp.Wasm", "ConsumingApp\ConsumingApp.Wasm\ConsumingApp.Wasm.csproj", "{8F2311C3-F93C-4786-B23E-117C84D201E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

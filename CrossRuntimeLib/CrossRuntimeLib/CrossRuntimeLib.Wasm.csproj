@@ -1,8 +1,9 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <IsPackable>false</IsPackable>
     <RootNamespace>CrossRuntimeLib</RootNamespace>
+	 <AssemblyName>CrossRuntimeLib</AssemblyName>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Uno.UI.Runtime.WebAssembly" Version="4.5.12" />

@@ -8,11 +8,8 @@ namespace CrossRuntimeLib
 		public MyCustomControl()
 		{
 		}
-#if __WASM__
 		public void WasmOnlyMethod()
 		{
-
 		}
-#endif
 	}
 }
